@@ -1,0 +1,474 @@
+[
+  {
+    "category": "departments",
+    "url": "https://iitj.ac.in/departments",
+    "content_type": "html",
+    "fetched_at_utc": "2026-03-25T06:44:36Z",
+    "char_count": 43,
+    "token_count_approx": 9
+  },
+  {
+    "category": "academic_regulations",
+    "url": "https://iitj.ac.in/office-of-academics/en/academic-regulations",
+    "content_type": "html",
+    "fetched_at_utc": "2026-03-25T06:44:40Z",
+    "char_count": 104657,
+    "token_count_approx": 16340
+  },
+  {
+    "category": "academic_regulations",
+    "url": "https://iitj.ac.in/office-of-academics/en/academics",
+    "content_type": "html",
+    "fetched_at_utc": "2026-03-25T06:44:41Z",
+    "char_count": 2001,
+    "token_count_approx": 276
+  },
+  {
+    "category": "academic_regulations",
+    "url": "https://iitj.ac.in/office-of-academics/en/download-forms",
+    "content_type": "html",
+    "fetched_at_utc": "2026-03-25T06:44:43Z",
+    "char_count": 7827,
+    "token_count_approx": 1139
+  },
+  {
+    "category": "departments",
+    "url": "https://iitj.ac.in/",
+    "content_type": "html",
+    "fetched_at_utc": "2026-03-25T06:44:46Z",
+    "char_count": 3547,
+    "token_count_approx": 512
+  },
+  {
+    "category": "departments",
+    "url": "https://iitj.ac.in/Main/en/Help",
+    "content_type": "html",
+    "fetched_at_utc": "2026-03-25T06:44:47Z",
+    "char_count": 2066,
+    "token_count_approx": 238
+  },
+  {
+    "category": "departments",
+    "url": "https://iitj.ac.in/Search?lg=en",
+    "content_type": "html",
+    "fetched_at_utc": "2026-03-25T06:44:49Z",
+    "char_count": 530,
+    "token_count_approx": 77
+  },
+  {
+    "category": "academic_regulations",
+    "url": "https://iitj.ac.in/office-of-academics/hi/Academic-Regulations",
+    "content_type": "html",
+    "fetched_at_utc": "2026-03-25T06:44:51Z",
+    "char_count": 104658,
+    "token_count_approx": 16350
+  },
+  {
+    "category": "departments",
+    "url": "https://iitj.ac.in/AtoZ?lg=en",
+    "content_type": "html",
+    "fetched_at_utc": "2026-03-25T06:44:53Z",
+    "char_count": 76964,
+    "token_count_approx": 10293
+  },
+  {
+    "category": "academic_regulations",
+    "url": "https://iitj.ac.in/People?dept=Office-of-Academics",
+    "content_type": "html",
+    "fetched_at_utc": "2026-03-25T06:44:55Z",
+    "char_count": 674,
+    "token_count_approx": 98
+  },
+  {
+    "category": "academic_regulations",
+    "url": "https://iitj.ac.in/office-of-academics/en/b.tech.",
+    "content_type": "html",
+    "fetched_at_utc": "2026-03-25T06:44:57Z",
+    "char_count": 983,
+    "token_count_approx": 137
+  },
+  {
+    "category": "academic_regulations",
+    "url": "https://iitj.ac.in/office-of-academics/en/bs",
+    "content_type": "html",
+    "fetched_at_utc": "2026-03-25T06:45:00Z",
+    "char_count": 737,
+    "token_count_approx": 105
+  },
+  {
+    "category": "academic_regulations",
+    "url": "https://iitj.ac.in/office-of-academics/en/m.sc.",
+    "content_type": "html",
+    "fetched_at_utc": "2026-03-25T06:45:02Z",
+    "char_count": 821,
+    "token_count_approx": 117
+  },
+  {
+    "category": "academic_regulations",
+    "url": "https://iitj.ac.in/office-of-academics/en/m.tech.",
+    "content_type": "html",
+    "fetched_at_utc": "2026-03-25T06:45:04Z",
+    "char_count": 1279,
+    "token_count_approx": 174
+  },
+  {
+    "category": "academic_regulations",
+    "url": "https://iitj.ac.in/office-of-academics/en/m.sc.-m.tech.",
+    "content_type": "html",
+    "fetched_at_utc": "2026-03-25T06:45:06Z",
+    "char_count": 790,
+    "token_count_approx": 114
+  },
+  {
+    "category": "academic_regulations",
+    "url": "https://iitj.ac.in/office-of-academics/en/mdes",
+    "content_type": "html",
+    "fetched_at_utc": "2026-03-25T06:45:08Z",
+    "char_count": 698,
+    "token_count_approx": 100
+  },
+  {
+    "category": "academic_regulations",
+    "url": "https://iitj.ac.in/office-of-academics/en/ph.d.",
+    "content_type": "html",
+    "fetched_at_utc": "2026-03-25T06:45:10Z",
+    "char_count": 1827,
+    "token_count_approx": 271
+  },
+  {
+    "category": "academic_regulations",
+    "url": "https://iitj.ac.in/office-of-academics/en/mba",
+    "content_type": "html",
+    "fetched_at_utc": "2026-03-25T06:45:13Z",
+    "char_count": 757,
+    "token_count_approx": 112
+  },
+  {
+    "category": "academic_regulations",
+    "url": "https://iitj.ac.in/office-of-academics/en/collaborations",
+    "content_type": "html",
+    "fetched_at_utc": "2026-03-25T06:45:15Z",
+    "char_count": 727,
+    "token_count_approx": 100
+  },
+  {
+    "category": "academic_regulations",
+    "url": "https://iitj.ac.in/Office-of-Academics/en/Academic-Calendar",
+    "content_type": "html",
+    "fetched_at_utc": "2026-03-25T06:45:17Z",
+    "char_count": 1288,
+    "token_count_approx": 178
+  },
+  {
+    "category": "academic_regulations",
+    "url": "https://iitj.ac.in/office-of-academics/en/list-of-academic-programs",
+    "content_type": "html",
+    "fetched_at_utc": "2026-03-25T06:45:19Z",
+    "char_count": 4441,
+    "token_count_approx": 651
+  },
+  {
+    "category": "academic_regulations",
+    "url": "https://iitj.ac.in/office-of-academics/en/discontinued-program",
+    "content_type": "html",
+    "fetched_at_utc": "2026-03-25T06:45:21Z",
+    "char_count": 2626,
+    "token_count_approx": 392
+  },
+  {
+    "category": "academic_regulations",
+    "url": "https://iitj.ac.in/office-of-academics/en/contact",
+    "content_type": "html",
+    "fetched_at_utc": "2026-03-25T06:45:22Z",
+    "char_count": 811,
+    "token_count_approx": 110
+  },
+  {
+    "category": "academic_regulations",
+    "url": "https://iitj.ac.in/office-of-academics/en/ug-registration-guidelines",
+    "content_type": "html",
+    "fetched_at_utc": "2026-03-25T06:45:30Z",
+    "char_count": 1849,
+    "token_count_approx": 239
+  },
+  {
+    "category": "academic_regulations",
+    "url": "https://iitj.ac.in/office-of-academics/en/first-year-class-time-table",
+    "content_type": "html",
+    "fetched_at_utc": "2026-03-25T06:45:33Z",
+    "char_count": 10949,
+    "token_count_approx": 1607
+  },
+  {
+    "category": "academic_regulations",
+    "url": "https://iitj.ac.in/office-of-academics/en/engineering-science",
+    "content_type": "html",
+    "fetched_at_utc": "2026-03-25T06:45:35Z",
+    "char_count": 17661,
+    "token_count_approx": 2488
+  },
+  {
+    "category": "academic_regulations",
+    "url": "https://iitj.ac.in/office-of-academics/en/specialization-minor-dual-degree",
+    "content_type": "html",
+    "fetched_at_utc": "2026-03-25T06:45:37Z",
+    "char_count": 13043,
+    "token_count_approx": 1687
+  },
+  {
+    "category": "departments",
+    "url": "https://iitj.ac.in/m/Index/56318149-17A4-4EA3-B560-5AD984D1B8E6?lg=en",
+    "content_type": "html",
+    "fetched_at_utc": "2026-03-25T06:45:40Z",
+    "char_count": 662,
+    "token_count_approx": 95
+  },
+  {
+    "category": "academic_regulations",
+    "url": "https://iitj.ac.in/Office-of-Academics/en/Old-Regulations",
+    "content_type": "html",
+    "fetched_at_utc": "2026-03-25T06:45:41Z",
+    "char_count": 1839,
+    "token_count_approx": 262
+  },
+  {
+    "category": "academic_regulations",
+    "url": "https://iitj.ac.in/PageImages/Gallery/03-2025/1_Academic_Regulations_Final_03_09_2019.pdf",
+    "content_type": "pdf",
+    "fetched_at_utc": "2026-03-25T06:45:44Z",
+    "char_count": 97788,
+    "token_count_approx": 15700
+  },
+  {
+    "category": "departments",
+    "url": "https://iitj.ac.in/PageImages/Gallery/03-2025/2.1_notification_26102020.pdf",
+    "content_type": "pdf",
+    "fetched_at_utc": "2026-03-25T06:45:47Z",
+    "char_count": 876,
+    "token_count_approx": 127
+  },
+  {
+    "category": "academic_regulations",
+    "url": "https://iitj.ac.in/PageImages/Gallery/03-2025/4_Regulation_PG_2022-onwards_20022023.pdf",
+    "content_type": "pdf",
+    "fetched_at_utc": "2026-03-25T06:45:51Z",
+    "char_count": 75451,
+    "token_count_approx": 8980
+  },
+  {
+    "category": "newsletters_circulars",
+    "url": "https://iitj.ac.in/PageImages/Gallery/03-2025/5_Circular_IITJ_OA_C_2021-22_21_122_20.01.2022.pdf",
+    "content_type": "pdf",
+    "fetched_at_utc": "2026-03-25T06:45:52Z",
+    "char_count": 5745,
+    "token_count_approx": 936
+  },
+  {
+    "category": "departments",
+    "url": "https://iitj.ac.in/PageImages/Gallery/03-2025/6_2024-04-17-661f605b54457-1713332315.pdf",
+    "content_type": "pdf",
+    "fetched_at_utc": "2026-03-25T06:45:52Z",
+    "char_count": 10752,
+    "token_count_approx": 1698
+  },
+  {
+    "category": "departments",
+    "url": "https://iitj.ac.in/main/en/important-links",
+    "content_type": "html",
+    "fetched_at_utc": "2026-03-25T06:45:54Z",
+    "char_count": 1180,
+    "token_count_approx": 158
+  },
+  {
+    "category": "departments",
+    "url": "https://iitj.ac.in/main/en/recruitments",
+    "content_type": "html",
+    "fetched_at_utc": "2026-03-25T06:45:56Z",
+    "char_count": 707,
+    "token_count_approx": 97
+  },
+  {
+    "category": "departments",
+    "url": "https://iitj.ac.in/correspondence",
+    "content_type": "html",
+    "fetched_at_utc": "2026-03-25T06:45:58Z",
+    "char_count": 1211,
+    "token_count_approx": 174
+  },
+  {
+    "category": "departments",
+    "url": "https://iitj.ac.in/rti",
+    "content_type": "html",
+    "fetched_at_utc": "2026-03-25T06:46:01Z",
+    "char_count": 1377,
+    "token_count_approx": 214
+  },
+  {
+    "category": "departments",
+    "url": "https://iitj.ac.in/office-of-stores-purchase/en/tender-details",
+    "content_type": "html",
+    "fetched_at_utc": "2026-03-25T06:46:03Z",
+    "char_count": 718,
+    "token_count_approx": 103
+  },
+  {
+    "category": "departments",
+    "url": "https://iitj.ac.in/techscape/en/Techscape",
+    "content_type": "html",
+    "fetched_at_utc": "2026-03-25T06:46:04Z",
+    "char_count": 36,
+    "token_count_approx": 5
+  },
+  {
+    "category": "departments",
+    "url": "https://iitj.ac.in/main/en/contact",
+    "content_type": "html",
+    "fetched_at_utc": "2026-03-25T06:46:05Z",
+    "char_count": 984,
+    "token_count_approx": 143
+  },
+  {
+    "category": "departments",
+    "url": "https://iitj.ac.in/main/en/how-to-reach-iit-jodhpur",
+    "content_type": "html",
+    "fetched_at_utc": "2026-03-25T06:46:06Z",
+    "char_count": 2352,
+    "token_count_approx": 384
+  },
+  {
+    "category": "departments",
+    "url": "https://iitj.ac.in/Institute-Repository/en/Institute-Repository",
+    "content_type": "html",
+    "fetched_at_utc": "2026-03-25T06:46:07Z",
+    "char_count": 778,
+    "token_count_approx": 108
+  },
+  {
+    "category": "departments",
+    "url": "https://iitj.ac.in/office-of-corporate-relations/en/Donate",
+    "content_type": "html",
+    "fetched_at_utc": "2026-03-25T06:46:08Z",
+    "char_count": 2740,
+    "token_count_approx": 406
+  },
+  {
+    "category": "academic_regulations",
+    "url": "https://iitj.ac.in/main/en/web-policy",
+    "content_type": "html",
+    "fetched_at_utc": "2026-03-25T06:46:10Z",
+    "char_count": 23485,
+    "token_count_approx": 3602
+  },
+  {
+    "category": "departments",
+    "url": "https://iitj.ac.in/main/en/web-information-manager",
+    "content_type": "html",
+    "fetched_at_utc": "2026-03-25T06:46:11Z",
+    "char_count": 946,
+    "token_count_approx": 125
+  },
+  {
+    "category": "departments",
+    "url": "https://iitj.ac.in/feedback",
+    "content_type": "html",
+    "fetched_at_utc": "2026-03-25T06:46:14Z",
+    "char_count": 527,
+    "token_count_approx": 76
+  },
+  {
+    "category": "departments",
+    "url": "https://iitj.ac.in/institute-repository/en/nirf",
+    "content_type": "html",
+    "fetched_at_utc": "2026-03-25T06:46:16Z",
+    "char_count": 1750,
+    "token_count_approx": 320
+  },
+  {
+    "category": "academic_regulations",
+    "url": "https://iitj.ac.in/anti-sexual-harassment-policy/en/anti-sexual-harassment-policy",
+    "content_type": "html",
+    "fetched_at_utc": "2026-03-25T06:46:17Z",
+    "char_count": 1561,
+    "token_count_approx": 227
+  },
+  {
+    "category": "departments",
+    "url": "https://iitj.ac.in/main/en/intranet-page",
+    "content_type": "html",
+    "fetched_at_utc": "2026-03-25T06:46:19Z",
+    "char_count": 843,
+    "token_count_approx": 117
+  },
+  {
+    "category": "departments",
+    "url": "https://iitj.ac.in/dia/en/dia",
+    "content_type": "html",
+    "fetched_at_utc": "2026-03-25T06:46:20Z",
+    "char_count": 2039,
+    "token_count_approx": 276
+  },
+  {
+    "category": "departments",
+    "url": "https://iitj.ac.in/m/Index/e1ec016d-ad3e-4a5a-bfbe-831afdd32b38?lg=en",
+    "content_type": "html",
+    "fetched_at_utc": "2026-03-25T06:46:22Z",
+    "char_count": 733,
+    "token_count_approx": 97
+  },
+  {
+    "category": "departments",
+    "url": "https://iitj.ac.in/m/Index/765f3f7b-09d5-42e5-b376-4e72ee5c5a21?lg=en",
+    "content_type": "html",
+    "fetched_at_utc": "2026-03-25T06:46:25Z",
+    "char_count": 649,
+    "token_count_approx": 94
+  },
+  {
+    "category": "departments",
+    "url": "https://iitj.ac.in/m/Index/1afa243f-2cf8-49ec-b8c3-e00f3ad1627d?lg=en",
+    "content_type": "html",
+    "fetched_at_utc": "2026-03-25T06:46:27Z",
+    "char_count": 690,
+    "token_count_approx": 99
+  },
+  {
+    "category": "departments",
+    "url": "https://iitj.ac.in/m/Index/ab99d4da-35b6-40f6-bcd5-b549c8b309c1?lg=en",
+    "content_type": "html",
+    "fetched_at_utc": "2026-03-25T06:46:29Z",
+    "char_count": 818,
+    "token_count_approx": 114
+  },
+  {
+    "category": "academic_regulations",
+    "url": "https://iitj.ac.in/office-of-academics/en/transcripts",
+    "content_type": "html",
+    "fetched_at_utc": "2026-03-25T06:46:31Z",
+    "char_count": 1676,
+    "token_count_approx": 256
+  },
+  {
+    "category": "academic_regulations",
+    "url": "https://iitj.ac.in/office-of-academics/en/convocation",
+    "content_type": "html",
+    "fetched_at_utc": "2026-03-25T06:46:33Z",
+    "char_count": 2065,
+    "token_count_approx": 298
+  },
+  {
+    "category": "academic_regulations",
+    "url": "https://iitj.ac.in/office-of-academics/en/scholarships",
+    "content_type": "html",
+    "fetched_at_utc": "2026-03-25T06:46:35Z",
+    "char_count": 1754,
+    "token_count_approx": 234
+  },
+  {
+    "category": "academic_regulations",
+    "url": "https://iitj.ac.in/office-of-academics/en/fee-structure",
+    "content_type": "html",
+    "fetched_at_utc": "2026-03-25T06:46:37Z",
+    "char_count": 729,
+    "token_count_approx": 106
+  }
+]

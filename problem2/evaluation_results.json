@@ -1,0 +1,47 @@
+{
+  "Vanilla RNN": {
+    "selected_temperature": 0.9,
+    "selection_mode": "best quality-constrained setting",
+    "novelty_rate": 0.025,
+    "diversity_score": 0.375,
+    "avg_length": 5.32,
+    "vowel_start_ratio": 0.255,
+    "avg_realism": 0.5867,
+    "failure_ratio": 0.045,
+    "n_generated": 200,
+    "failure_counts": {
+      "low_realism": 9
+    }
+  },
+  "Bidirectional LSTM": {
+    "selected_temperature": 0.9,
+    "selection_mode": "best available (constraints unmet)",
+    "novelty_rate": 1.0,
+    "diversity_score": 0.97,
+    "avg_length": 12.13,
+    "vowel_start_ratio": 0.15,
+    "avg_realism": 0.5773,
+    "failure_ratio": 0.41,
+    "n_generated": 200,
+    "failure_counts": {
+      "too_long": 41,
+      "repetitive_chars": 39,
+      "low_realism": 2
+    }
+  },
+  "RNN + Attention": {
+    "selected_temperature": 1.0,
+    "selection_mode": "best available (constraints unmet)",
+    "novelty_rate": 0.925,
+    "diversity_score": 0.33,
+    "avg_length": 4.98,
+    "vowel_start_ratio": 0.015,
+    "avg_realism": 0.4462,
+    "failure_ratio": 0.035,
+    "n_generated": 200,
+    "failure_counts": {
+      "low_realism": 6,
+      "no_vowels": 1
+    }
+  }
+}

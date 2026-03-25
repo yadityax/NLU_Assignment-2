@@ -1,0 +1,118 @@
+[
+  {
+    "model": "CBOW",
+    "embed_dim": 50,
+    "window_size": 2,
+    "vocab_size": 4738,
+    "n_epochs": 5,
+    "final_loss": 4.1133,
+    "train_time_sec": 709.39
+  },
+  {
+    "model": "CBOW",
+    "embed_dim": 50,
+    "window_size": 4,
+    "vocab_size": 4738,
+    "n_epochs": 5,
+    "final_loss": 4.7446,
+    "train_time_sec": 694.45
+  },
+  {
+    "model": "CBOW",
+    "embed_dim": 100,
+    "window_size": 2,
+    "vocab_size": 4738,
+    "n_epochs": 5,
+    "final_loss": 3.9667,
+    "train_time_sec": 6042.82
+  },
+  {
+    "model": "CBOW",
+    "embed_dim": 100,
+    "window_size": 4,
+    "vocab_size": 4738,
+    "n_epochs": 5,
+    "final_loss": 4.6119,
+    "train_time_sec": 6044.96
+  },
+  {
+    "model": "SkipGram-NS",
+    "embed_dim": 50,
+    "window_size": 2,
+    "n_negative": 5,
+    "vocab_size": 4738,
+    "n_epochs": 5,
+    "final_loss": 0.0546,
+    "train_time_sec": 7.67
+  },
+  {
+    "model": "SkipGram-NS",
+    "embed_dim": 50,
+    "window_size": 2,
+    "n_negative": 10,
+    "vocab_size": 4738,
+    "n_epochs": 5,
+    "final_loss": 0.0409,
+    "train_time_sec": 12.79
+  },
+  {
+    "model": "SkipGram-NS",
+    "embed_dim": 50,
+    "window_size": 4,
+    "n_negative": 5,
+    "vocab_size": 4738,
+    "n_epochs": 5,
+    "final_loss": 0.0293,
+    "train_time_sec": 13.94
+  },
+  {
+    "model": "SkipGram-NS",
+    "embed_dim": 50,
+    "window_size": 4,
+    "n_negative": 10,
+    "vocab_size": 4738,
+    "n_epochs": 5,
+    "final_loss": 0.0221,
+    "train_time_sec": 23.75
+  },
+  {
+    "model": "SkipGram-NS",
+    "embed_dim": 100,
+    "window_size": 2,
+    "n_negative": 5,
+    "vocab_size": 4738,
+    "n_epochs": 5,
+    "final_loss": 0.0546,
+    "train_time_sec": 14.53
+  },
+  {
+    "model": "SkipGram-NS",
+    "embed_dim": 100,
+    "window_size": 2,
+    "n_negative": 10,
+    "vocab_size": 4738,
+    "n_epochs": 5,
+    "final_loss": 0.0411,
+    "train_time_sec": 24.2
+  },
+  {
+    "model": "SkipGram-NS",
+    "embed_dim": 100,
+    "window_size": 4,
+    "n_negative": 5,
+    "vocab_size": 4738,
+    "n_epochs": 5,
+    "final_loss": 0.0293,
+    "train_time_sec": 25.57
+  },
+  {
+    "model": "SkipGram-NS",
+    "embed_dim": 100,
+    "window_size": 4,
+    "n_negative": 10,
+    "vocab_size": 4738,
+    "n_epochs": 5,
+    "final_loss": 0.0221,
+    "train_time_sec": 43.71
+  }
+]

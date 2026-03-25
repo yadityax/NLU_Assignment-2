@@ -1,0 +1,38 @@
+{
+  "Vanilla RNN": {
+    "novelty_rate": 0.85,
+    "diversity_score": 0.95,
+    "avg_length": 6.84,
+    "vowel_start_ratio": 0.175,
+    "avg_realism": 0.6535,
+    "n_generated": 200,
+    "failure_counts": {
+      "low_realism": 1
+    }
+  },
+  "Bidirectional LSTM": {
+    "novelty_rate": 1.0,
+    "diversity_score": 1.0,
+    "avg_length": 19.05,
+    "vowel_start_ratio": 0.145,
+    "avg_realism": 0.5275,
+    "n_generated": 200,
+    "failure_counts": {
+      "too_long": 183
+    }
+  },
+  "RNN + Attention": {
+    "novelty_rate": 0.985,
+    "diversity_score": 0.755,
+    "avg_length": 4.38,
+    "vowel_start_ratio": 0.025,
+    "avg_realism": 0.4412,
+    "n_generated": 200,
+    "failure_counts": {
+      "low_realism": 46,
+      "too_short": 26,
+      "no_vowels": 2,
+      "repetitive_chars": 1
+    }
+  }
+}

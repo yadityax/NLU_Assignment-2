@@ -1,0 +1,431 @@
+{
+  "cbow": {
+    "nn_results": [
+      {
+        "query_id": 1,
+        "query_word": "research",
+        "resolved_query_word": "research",
+        "neighbors": [
+          [
+            "crf",
+            0.5719588025489856
+          ],
+          [
+            "sample",
+            0.5494244774351504
+          ],
+          [
+            "patent",
+            0.5392476832070748
+          ],
+          [
+            "facility",
+            0.5227517160069294
+          ],
+          [
+            "solutions",
+            0.508377939069006
+          ]
+        ]
+      },
+      {
+        "query_id": 2,
+        "query_word": "student",
+        "resolved_query_word": "student",
+        "neighbors": [
+          [
+            "namely",
+            0.5706334031926459
+          ],
+          [
+            "becoming",
+            0.5587683368639943
+          ],
+          [
+            "innovative",
+            0.5435879451945143
+          ],
+          [
+            "recommends",
+            0.5321241131632654
+          ],
+          [
+            "satisfactory",
+            0.5288225440552514
+          ]
+        ]
+      },
+      {
+        "query_id": 3,
+        "query_word": "phd",
+        "resolved_query_word": "phd",
+        "neighbors": [
+          [
+            "mtech",
+            0.8651801177628959
+          ],
+          [
+            "apply",
+            0.8091014176210516
+          ],
+          [
+            "msc",
+            0.8065607469839513
+          ],
+          [
+            "continuous",
+            0.7738133145838315
+          ],
+          [
+            "scholarship",
+            0.7701613830292414
+          ]
+        ]
+      },
+      {
+        "query_id": 4,
+        "query_word": "exam",
+        "resolved_query_word": "exam",
+        "neighbors": [
+          [
+            "mention",
+            0.6261686239958193
+          ],
+          [
+            "offices",
+            0.6113540739799468
+          ],
+          [
+            "outstanding",
+            0.6018636544174918
+          ],
+          [
+            "groundwater",
+            0.600204128851072
+          ],
+          [
+            "syllabus",
+            0.5856389932116697
+          ]
+        ]
+      },
+      {
+        "query_id": 5,
+        "query_word": "exam",
+        "resolved_query_word": "exam",
+        "neighbors": [
+          [
+            "mention",
+            0.6261686239958193
+          ],
+          [
+            "offices",
+            0.6113540739799468
+          ],
+          [
+            "outstanding",
+            0.6018636544174918
+          ],
+          [
+            "groundwater",
+            0.600204128851072
+          ],
+          [
+            "syllabus",
+            0.5856389932116697
+          ]
+        ]
+      }
+    ],
+    "analogy_results": {
+      "UG : BTech :: PG : ?": [
+        [
+          "outreach",
+          0.783952643615083
+        ],
+        [
+          "critical",
+          0.778594963224893
+        ],
+        [
+          "history",
+          0.7535351763250175
+        ],
+        [
+          "deputy",
+          0.7534199429965225
+        ],
+        [
+          "faq",
+          0.7526464359270992
+        ]
+      ],
+      "BTech : undergraduate :: MTech : ?": [
+        [
+          "admit",
+          0.8142432228147973
+        ],
+        [
+          "criteria",
+          0.778930992572917
+        ],
+        [
+          "formally",
+          0.7695758087550129
+        ],
+        [
+          "continuous",
+          0.760741652105839
+        ],
+        [
+          "defence",
+          0.7602034032029803
+        ]
+      ],
+      "PhD : research :: BTech : ?": [
+        [
+          "central",
+          0.627569295692665
+        ],
+        [
+          "sample",
+          0.6150806868124146
+        ],
+        [
+          "facility",
+          0.5408642444481576
+        ],
+        [
+          "stem",
+          0.5345627409163088
+        ],
+        [
+          "xrf",
+          0.5293861924667735
+        ]
+      ]
+    },
+    "config": {
+      "model": "CBOW",
+      "embed_dim": 100,
+      "window_size": 4,
+      "vocab_size": 4738,
+      "n_epochs": 5
+    }
+  },
+  "skipgram": {
+    "nn_results": [
+      {
+        "query_id": 1,
+        "query_word": "research",
+        "resolved_query_word": "research",
+        "neighbors": [
+          [
+            "department",
+            0.998709199073937
+          ],
+          [
+            "engineering",
+            0.9980422778245717
+          ],
+          [
+            "chemistry",
+            0.9979304679133141
+          ],
+          [
+            "student",
+            0.9978535413553341
+          ],
+          [
+            "data",
+            0.9978102540646101
+          ]
+        ]
+      },
+      {
+        "query_id": 2,
+        "query_word": "student",
+        "resolved_query_word": "student",
+        "neighbors": [
+          [
+            "students",
+            0.9992343304160094
+          ],
+          [
+            "academic",
+            0.9992028130149933
+          ],
+          [
+            "following",
+            0.99918772018512
+          ],
+          [
+            "index",
+            0.9990887940091618
+          ],
+          [
+            "program",
+            0.9990740022207347
+          ]
+        ]
+      },
+      {
+        "query_id": 3,
+        "query_word": "phd",
+        "resolved_query_word": "phd",
+        "neighbors": [
+          [
+            "student",
+            0.9986252444742857
+          ],
+          [
+            "academic",
+            0.9985024242301245
+          ],
+          [
+            "one",
+            0.9984978095451569
+          ],
+          [
+            "following",
+            0.9984752695756666
+          ],
+          [
+            "index",
+            0.9983843912815928
+          ]
+        ]
+      },
+      {
+        "query_id": 4,
+        "query_word": "exam",
+        "resolved_query_word": "exam",
+        "neighbors": [
+          [
+            "ishaan",
+            0.9970099853824389
+          ],
+          [
+            "greywater",
+            0.9968306894919073
+          ],
+          [
+            "iccr",
+            0.9967714807205214
+          ],
+          [
+            "across",
+            0.9965564593858538
+          ],
+          [
+            "scientific",
+            0.9964053954720042
+          ]
+        ]
+      },
+      {
+        "query_id": 5,
+        "query_word": "exam",
+        "resolved_query_word": "exam",
+        "neighbors": [
+          [
+            "ishaan",
+            0.9970099853824389
+          ],
+          [
+            "greywater",
+            0.9968306894919073
+          ],
+          [
+            "iccr",
+            0.9967714807205214
+          ],
+          [
+            "across",
+            0.9965564593858538
+          ],
+          [
+            "scientific",
+            0.9964053954720042
+          ]
+        ]
+      }
+    ],
+    "analogy_results": {
+      "UG : BTech :: PG : ?": [
+        [
+          "corrections",
+          0.9941352972258934
+        ],
+        [
+          "ananya",
+          0.994113042963365
+        ],
+        [
+          "foresight",
+          0.9940895081129643
+        ],
+        [
+          "material",
+          0.9940777182295251
+        ],
+        [
+          "ishaan",
+          0.9939555613944748
+        ]
+      ],
+      "BTech : undergraduate :: MTech : ?": [
+        [
+          "courses",
+          0.9933413058060726
+        ],
+        [
+          "semester",
+          0.9933376885137823
+        ],
+        [
+          "programs",
+          0.9932945053025917
+        ],
+        [
+          "graduation",
+          0.9932615927092119
+        ],
+        [
+          "crf",
+          0.9932386386762978
+        ]
+      ],
+      "PhD : research :: BTech : ?": [
+        [
+          "designed",
+          0.9953268040552603
+        ],
+        [
+          "computer",
+          0.9952295233667212
+        ],
+        [
+          "july",
+          0.995218624584978
+        ],
+        [
+          "information",
+          0.9951725390501622
+        ],
+        [
+          "ed",
+          0.9951398255029968
+        ]
+      ]
+    },
+    "config": {
+      "model": "SkipGram-NS",
+      "embed_dim": 100,
+      "window_size": 4,
+      "n_negative": 10,
+      "vocab_size": 4738,
+      "n_epochs": 5
+    }
+  }
+}
